@@ -41,7 +41,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/sign_atul_kumar.jpg
     - images/
 
   fonts:
