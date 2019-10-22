@@ -1,6 +1,12 @@
 # deby
 
-A design app
+A focussed reading App for designers, developers and entrepreneurs to read 3 articles everyday. That almost makes 1000 articles annually which is equivalent to a year long programme at any design university.
+
+It is difficult to keep up with the latest trends and updates in shooting day to day bullets so here is the Deby solving it for all the avengers.
+
+Design and concept design credits https://github.com/designerbaniya/deby 
+
+Like | Comment | Share | Spread Love | Be happy on https://Instagram.com/designerbaniya
 
 ## Getting Started
 
